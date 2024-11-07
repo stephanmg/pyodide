@@ -1,0 +1,16 @@
+package:
+  name: pypesto
+  version: 0.5.4
+  top-level:
+    - pypesto
+source:
+  url: https://files.pythonhosted.org/packages/7b/41/fe62e834a3e3a863db73565483a5ab27fa258583d874edf4f3aee74f8568/pypesto-0.5.4-py3-none-any.whl
+  sha256: e98ee6a3c6f0b99f2edc010578fb3c24540febb7753b48d9f1346d3ee52ced19
+about:
+  home: https://github.com/icb-dcm/pypesto
+  PyPI: https://pypi.org/project/pypesto
+  summary: python-based Parameter EStimation TOolbox
+  license: BSD-3-Clause
+extra:
+  recipe-maintainers:
+    - PUT_YOUR_GITHUB_USERNAME_HERE
