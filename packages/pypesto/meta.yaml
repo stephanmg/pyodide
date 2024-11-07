@@ -14,3 +14,13 @@ about:
 extra:
   recipe-maintainers:
     - PUT_YOUR_GITHUB_USERNAME_HERE
+requirements:
+  run:
+    - numpy
+    - pandas
+    - tqdm
+    - h5py
+    - scipy
+    - cloudpickle
+    - more-itertools
+    - matplotlib
